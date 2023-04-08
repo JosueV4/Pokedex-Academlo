@@ -26,7 +26,7 @@ const Home = () => {
   return (
     <div
       className="flex flex-col justify-center h-screen bg-cover bg-center"
-      style={{ backgroundImage: "url('/public/bgPokemons.gif')" }}
+      style={{ backgroundImage: "url('/bgPokemons.gif')" }}
     >
       <div className="mx-auto max-w-2xl sm:max-w-lg my-8">
         <div className="mb-10">
